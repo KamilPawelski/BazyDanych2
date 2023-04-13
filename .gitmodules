@@ -1,0 +1,3 @@
+[submodule "BazyDanych"]
+	path = BazyDanych
+	url = git@github.com:KamilPawelski/BazyDanych.git
